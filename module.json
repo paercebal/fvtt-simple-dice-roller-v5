@@ -1,0 +1,29 @@
+{
+	"name": "simple-dice-roller-v5",
+	"title": "Simple Dice Roller V5",
+	"description": "Simple module that allows for quick rolling of Vampire: The Masquerade V5 dice.",
+	"version": "1.1.4",
+	"minimumCoreVersion": "0.7.0",
+	"compatibleCoreVersion": "0.7.9",
+	"author": "Paercebal (99.99% copy-pasted from Jan Ole Peek (ChalkOne)'s Simple Dice Roller)",
+	"scripts": ["./simple-dice-roller-v5.js"],
+	"styles": [
+		"./css/simple-dice-roller-v5.css",
+		"./css/dicefont.css"
+	],
+	"url": "https://github.com/paercebal/fvtt-simple-dice-roller-v5",
+	"manifest": "https://raw.githubusercontent.com/paercebal/fvtt-simple-dice-roller-v5/master/module.json",
+	"download": "https://github.com/paercebal/fvtt-simple-dice-roller-v5/archive/master.zip",
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "./lang/en.json"
+		},
+		{
+			"lang": "fr",
+			"name": "Français",
+			"path": "./lang/fr.json"
+		}
+	]
+}
