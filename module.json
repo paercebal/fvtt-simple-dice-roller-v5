@@ -12,8 +12,8 @@
 		"./css/dicefont.css"
 	],
 	"url": "https://github.com/paercebal/fvtt-simple-dice-roller-v5",
-	"manifest": "https://raw.githubusercontent.com/paercebal/fvtt-simple-dice-roller-v5/master/module.json",
-	"download": "https://github.com/paercebal/fvtt-simple-dice-roller-v5/archive/master.zip",
+	"manifest": "https://raw.githubusercontent.com/paercebal/fvtt-simple-dice-roller-v5/main/module.json",
+	"download": "https://github.com/paercebal/fvtt-simple-dice-roller-v5/archive/main.zip",
 	"languages": [
 		{
 			"lang": "en",
